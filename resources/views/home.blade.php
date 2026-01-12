@@ -9,7 +9,7 @@
                     <div>
                         <div class="font-semibold">{{ $chirp['author'] }}</div>
                         <div class="mt-1">{{ $chirp['message'] }}</div>
-                        <div class="text-sm text-gray-500 mt-2">{{ $chirp['time'] }}
+                        <div class="text-sm text-gray-500 mt-2">{{ $chirp['time'] }}</div>
                     </div>
                 </div>
             </div>
